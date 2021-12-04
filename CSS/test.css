@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.social {
+    margin-right: 20px;
+}
+
+.media {
+    margin-left: 20px;
+    font-size: 20px;
+    padding: 20px 15px;
+}
+
+.navbar-brand {
+    width: 134px;
+    height: 37px;
+    margin: 18px 201px 12px 119px;
+    font-family: Gilroy;
+    font-size: 28px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.61;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--black);
+}
+
+.navbar-collapse {
+    position: absolute;
+    right: 0;
+}
+
+.navbar-collapse ul li {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.title h1 {
+    width: 35%;
+    height: 108px;
+    margin: 114px 52.5px 19px 380px;
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 1.18;
+}
+
+.title h2 {
+    width: 60%;
+    margin-left: 200px;
+    line-height: 50px;
+}
+
+.street {
+    width: 430px;
+    margin: 20px 0;
+}
+
+input {
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid grey;
+}
+
+.btn-connect {
+    background-color: rgb(75, 196, 75);
+    margin: 20px;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 20px;
+    box-shadow: none;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.fill-info {
+    position: relative;
+    top: -63px;
+}
+
+footer {
+    background-color: green;
+}
+
+footer ul li {
+    padding: 20px 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
